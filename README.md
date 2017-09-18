@@ -3,11 +3,11 @@
 Data Science Projects in Python
 
 ## Index
-1. SC Lecture
-2. NGram
-3. 
+1. SC Lectures
+2. N-Gram
+3. Classical Machine Learning
 4. DataAnalysis and MachineLearning Projects
-5. DeepLearning
+5. Deep Learning
  
 ## Installation Notes
 Python version 3.5+
