@@ -1,9 +1,8 @@
-# Data Science Project that using Python
+# Data Science Project
 
-Codes, examples and notebooks are collected from online with my comment and modification
+Data Science Projects in Python
 
 ## Index
-
 1. SC Lecture
 2. NGram
 3. 
@@ -11,14 +10,11 @@ Codes, examples and notebooks are collected from online with my comment and modi
 5. DeepLearning
  
 ## Installation Notes
-This tutorial requires the following packages:
-
-<!-- - Python version 2.6-2.7 or 3.3+
+Python version 3.5+
 - `numpy` version 1.5 or later: http://www.numpy.org/
 - `scipy` version 0.10 or later: http://www.scipy.org/
 - `matplotlib` version 1.3 or later: http://matplotlib.org/
 - `scikit-learn` version 0.14 or later: http://scikit-learn.org
 - `ipython` version 2.0 or later, with notebook support: http://ipython.org
-- `seaborn` version 0.5 or later -->
-
-
+- `seaborn` version 0.5 or later
+- `nltk` verison 3.2.4 or later: http://www.nltk.org/
