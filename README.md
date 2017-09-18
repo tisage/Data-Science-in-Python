@@ -1,8 +1,14 @@
 # Data Science Project that using Python
-# Codes, examples and notebooks are collected from online with my comment and modification
+
+Codes, examples and notebooks are collected from online with my comment and modification
 
 ## Index
 
+1. SC Lecture
+2. NGram
+3. 
+4. DataAnalysis and MachineLearning Projects
+5. DeepLearning
  
 ## Installation Notes
 This tutorial requires the following packages:
