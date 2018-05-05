@@ -1,6 +1,12 @@
 # Data Science Project
 
-Data Science Projects in Python
+My Data Science Projects in Python:
+
+Data Wrangling
+Text Data Processing
+Machine Learning
+Deep Learning
+Fun Project using Python and Data Science
 
 ## Index
 1. SC Lectures
